@@ -2,11 +2,11 @@
 
 # Meulemans Philippe
 
-###### le pire n’est jamais certain
+### le pire n’est jamais certain
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-###### "Me, in one sentence"
+### "Me, in one sentence"
 
 | Birthday      |    favorite color     | favorite food | Pineapple on Pizza
 | ------------- |:-------------:| ------------- |:-------------:|
@@ -15,26 +15,25 @@ A (professional) photo of yourself (you can save the file in the repository next
 
 
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
-Hobbies (smaller header)
+###Hobbies (smaller header)
 
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
++ A
++ B
++ C
 
-You can always count on me when... (smaller header)
+
+
+#### You can always count on me when... 
 
 Tell your teammates which positive contribution to the group you will make.
 This could be technical, making people feel comfortable, being an organiser...
 
-A funny story (smaller header)
+### A funny story (smaller header)
 
 Tell a short funny story about your life.
 
-TL;DR (even smaller header, under funny story)
+#####TL;DR (even smaller header, under funny story)
 
 Summarise your funny story in one short sentence.
 
@@ -43,4 +42,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+<< [nom] (http) || Meulemans Philippe || [nom] ( http) >>
