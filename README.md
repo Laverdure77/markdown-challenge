@@ -8,12 +8,10 @@ A (professional) photo of yourself (you can save the file in the repository next
 
 ### "Me, in one sentence"
 
+
 | Birthday      |    favorite color     | favorite food | Pineapple on Pizza
 | ------------- |:-------------:| ------------- |:-------------:|
 |21/06           | color | food |Yes |
-
-
-
 
 
 ### Hobbies
@@ -29,7 +27,7 @@ A (professional) photo of yourself (you can save the file in the repository next
 Tell your teammates which positive contribution to the group you will make.
 This could be technical, making people feel comfortable, being an organiser...
 
-### A funny story (smaller header)
+##### A funny story (smaller header)
 
 Tell a short funny story about your life.
 ###### Summarise your funny story in one short sentence.
