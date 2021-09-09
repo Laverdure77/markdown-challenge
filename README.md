@@ -32,4 +32,4 @@ This could be technical, making people feel comfortable, being an organiser...
 Tell a short funny story about your life.
 ###### Summarise your funny story in one short sentence.
 
-<< [nom] (http) || Meulemans Philippe || [Raoni Gillet]( https://github.com/GRaonix/markdown-challenge/blob/main/README.md) >>
+<< [nom] (http) ||  Philippe Meulemans || [Raoni Gillet]( https://github.com/GRaonix/markdown-challenge/blob/main/README.md) >>
