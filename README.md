@@ -1,13 +1,19 @@
 # markdown-challenge
-Your Name (as a large header)
 
-An inspirational quote in italics
+# Meulemans Philippe
+
+######le pire n’est jamais certain
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-"Me, in one sentence" (as a smaller header)
+######"Me, in one sentence"
 
-A table with the following structure:
+| Birthday      |    favorite color     | favorite food | Pineapple on Pizza
+| ------------- |:-------------:| ------------- |:-------------:|
+|21/06           | color | food |Yes |
+
+
+
 
 Birthday: dd/mm
 Favorite color: ?
