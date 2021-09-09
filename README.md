@@ -2,11 +2,11 @@
 
 # Meulemans Philippe
 
-######le pire n’est jamais certain
+###### le pire n’est jamais certain
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-######"Me, in one sentence"
+###### "Me, in one sentence"
 
 | Birthday      |    favorite color     | favorite food | Pineapple on Pizza
 | ------------- |:-------------:| ------------- |:-------------:|
